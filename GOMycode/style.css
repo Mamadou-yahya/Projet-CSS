@@ -1,0 +1,111 @@
+
+footer{
+    text-align: center;
+    color: darkorange;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+ul{
+    display: inline-block;
+    color: blueviolet;
+}
+li{
+    display: inline;
+    border-left: 2rem;
+    padding: 2rem;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+
+#reve{
+    color: yellow;
+    background-color: beiges;
+}
+div#content div{
+    display: inline-block;
+    width: 48%;
+}
+div#content div.yes{
+    vertical-align: top;
+    background-color: burlywood;
+    font-size: 2rem;
+}
+.yup {
+    color: gold;
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+#ow{
+    color: darkorange;
+    font-size: 2rem;
+    text-decoration: underline;
+    text-align: center;
+}
+.luis{
+    background-color: dimgray;
+    color: mediumaquamarine;
+    padding: 40px;
+    border: 100%;
+    font-size: 2rem;
+    margin: 2rem;
+}
+*{
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
+table{
+    border-right: 2rem;
+    padding-left: 2rem;
+    margin-left: 2rem;
+    color: brown;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 2rem;
+}
+td{
+    border-right: 2rem;
+    padding-left: 2rem;
+    margin-left: 2rem;
+    color: brown;
+    font-style: italic;
+    font-size: 2rem;
+}
+th{
+    border-right: 2rem;
+    padding-left: 2rem;
+    margin-left: 2rem;
+    color: brown;
+    font-style: italic;
+    font-size: 2rem;
+}
+.no > input{
+    background-position:top;
+    border:olivedrab;
+    margin-left: 2rem;
+    text-transform: capitalize;
+}
+input{
+    text-transform: capitalize;
+    padding-top: 2rem;
+    border-style: solid;
+    margin: 3rem;
+    color: darkcyan;
+}
+form{
+    background-color: chocolate;
+    color: darkred;
+    padding: 2rem;
+    margin: 2rem;
+}
+.base{
+    text-align: center;
+    text-decoration: underline;
+    color: darkgreen;
+}
+.maintitre{
+    color: olive;
+    text-transform: capitalize;
+}
+       
+    
